@@ -74,7 +74,7 @@ CRM SYSTEM/
 
 ## 👨‍💻 Author
 
-Your Name
+Tauqeer Bilal Hussain
 
 ---
 
